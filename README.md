@@ -4,11 +4,13 @@ This is the exam for the computing brushup. Please follow these instructions:
 
 ### Fork this repository
 
-As a personal Github project. It is important that you use your forked repository for the rest of the steps.
+It is important that you use your forked repository for the rest of the steps.
 
 ### Launch an AWS instance
 
-Launch an instance, T2 Micro (free tier!) is fine for size, but you must use the following image: "BGSE Computing Brushup Exam Image" which is available publically.
+Launch an instance, T2 Micro (free tier!) is fine for size, but you must use the following image: "bgse brushup exam," which is available publically (community images).
+
+Note: this image already has Docker installed and available to the "ubuntu" user, and the docker image for jupyter/datascience-notebook is already available to use as well.
 
 ### Clone your forked repository onto the instance
 
